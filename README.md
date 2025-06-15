@@ -1,9 +1,6 @@
 
----
-
 ## 📄 `factory/README.md`
 
-```markdown
 # Factory Pattern - Hello World in Multiple Languages
 
 This project demonstrates the **Factory Design Pattern** by creating message objects in different languages without exposing the creation logic to the client.
